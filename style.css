@@ -1,0 +1,59 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+#divForm {
+    border: 5px solid black;
+    border-radius: 3vh;
+    text-align: center;
+    background-color: white;
+    padding: 50px;
+}
+
+#divBenvenuto {
+    border: 5px solid green;
+    border-radius: 3vh;
+    text-align: center;
+    background-color: white;
+    padding: 50px;
+}
+
+#divBenvenuto h1 {
+    color: green;
+}
+
+#divErrore {
+    border: 5px solid red;
+    border-radius: 3vh;
+    text-align: center;
+    background-color: white;
+    padding: 50px;
+}
+
+#divErrore h1 {
+    color: red;
+}
+
+.sendButton {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius: 1vh;
+    padding: 5px;
+    background-color: white;
+}
+
+#divSessioneScaduta {
+    border: 5px solid red;
+    border-radius: 3vh;
+    text-align: center;
+    background-color: white;
+    padding: 50px;
+}
+
+#divSessioneScaduta h1 {
+    color: red;
+}
